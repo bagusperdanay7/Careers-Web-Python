@@ -6,13 +6,14 @@ Career Web Python with **Aakash N S** (**_freecodecamp_**) using Flask, Python, 
 Bahasan Materi Meliputi:
 
 
-## Technology stack
+## Technology stack & Tools
 
 **This program needs:**
 
-| Language & Library | Version |
+| Tech Stack         | Version |
 | ------------------ | ------- |
 | Python             | 3.8+    |
 | Flask              | 3.0+    |
 | MySQL              | 8.0+    |
+| Replit             |    -    |
 
