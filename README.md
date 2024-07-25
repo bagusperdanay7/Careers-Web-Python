@@ -10,7 +10,7 @@ Bahasan Materi Meliputi:
 
 **This program needs:**
 
-| Tech Stack         | Version |
+| Tech Stack & Tools | Version |
 | ------------------ | ------- |
 | Python             | 3.8+    |
 | Flask              | 3.0+    |
