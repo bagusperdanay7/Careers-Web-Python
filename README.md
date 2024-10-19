@@ -15,5 +15,5 @@ Bahasan Materi Meliputi:
 | Python             | 3.8+    |
 | Flask              | 3.0+    |
 | MySQL              | 8.0+    |
-| Replit             |    -    |
+| Replit             | Latest  |
 
